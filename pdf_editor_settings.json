@@ -1,0 +1,7 @@
+{
+  "function": "insert",
+  "export_pages": "1-6,7-10",
+  "split_pages": "10",
+  "interval": "1",
+  "insert_pages": "1"
+}
